@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **matthewhoungs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-- matthewhoungs@gmail.com
 <p align="left">
 </p>
 
