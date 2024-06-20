@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Matthew Hong</h1>
-<h3 align="center">A self-taught backend engineer</h3>
+<h1 align="center">Welcome to My GitHub!</h1>
 
-- 🔭 I’m currently working at start-up **project name: Vplus**
+<h3 align="center">About Me</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewhoung?tab=repositories](https://github.com/matthewhoung?tab=repositories)
+<p align="center">Hi there! I'm Matthew Houng, a passionate backend developer specializing in Python and C#. I excel in creating robust applications using .NET and Flask, and I'm skilled in working with various databases including MongoDB, MySQL, and PostgreSQL.</p>
 
-- 📫 How to reach me **matthewhoungs@gmail.com**
+<h3 align="center">My Expertise</h3>
 
-<p align="left">
-</p>
+- **Languages:** Python, C#
+- **Frameworks:** .NET, Flask
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Cloud Services:** GCP, AWS
+- **Tools:** Docker, Kubernetes
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Check Out My Projects</h3>
+
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/matthewhoung?tab=repositories).
+
+<h3 align="center">How to Reach Me</h3>
+
+- 📫 Feel free to contact me at: **matthewhoungs@gmail.com**
+
+<p align="center"></p>
