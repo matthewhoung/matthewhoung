@@ -6,18 +6,18 @@
 
 <h3 align="center">My Expertise</h3>
 
-- **Languages:** Python, C#
-- **Frameworks:** .NET, Flask
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Cloud Services:** GCP, AWS
-- **Tools:** Docker, Kubernetes
+<p align="center">
+  <strong>Languages:</strong> Python, C#<br>
+  <strong>Frameworks:</strong> .NET, Flask<br>
+  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
+  <strong>Cloud Services:</strong> GCP, AWS<br>
+  <strong>Tools:</strong> Docker, Kubernetes
+</p>
 
 <h3 align="center">Check Out My Projects</h3>
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/matthewhoung?tab=repositories).
+<p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/matthewhoung?tab=repositories">my GitHub repositories</a>.</p>
 
 <h3 align="center">How to Reach Me</h3>
 
-- 📫 Feel free to contact me at: **matthewhoungs@gmail.com**
-
-<p align="center"></p>
+<p align="center">📫 Feel free to contact me at: <strong>matthewhoungs@gmail.com</strong></p>
