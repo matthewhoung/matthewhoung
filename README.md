@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">Hi there! I'm Matthew Houng, a passionate backend developer specializing in Python and C#. I excel in creating robust applications using .NET and Flask, and I'm skilled in working with various databases including MongoDB, MySQL, and PostgreSQL.</p>
+<p align="center">Hi there! I'm Matthew Hong, a passionate backend developer specializing in Python and C#. I excel in creating robust applications using .NET and Flask, and I'm skilled in working with various databases including MongoDB, MySQL, and PostgreSQL.</p>
 
 <h3 align="center">My Expertise</h3>
 
