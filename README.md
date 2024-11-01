@@ -1,23 +1,57 @@
-<h1 align="center">Welcome to My GitHub!</h1>
+<!-- Header -->
+# 👋 Hi, I'm Matthew Hong
 
-<h3 align="center">About Me</h3>
+> Self-taught Backend engineer
+> From Financial Engineering to Software Development: Bridging Numbers and Code
 
-<p align="center">Hi there! I'm Matthew Hong, a passionate backend developer specializing in Python and C#. I excel in creating robust applications using .NET and Flask, and I'm skilled in working with various databases including MongoDB, MySQL, and PostgreSQL.</p>
+<!-- Education Section -->
+## 🎓 Education
 
-<h3 align="center">My Expertise</h3>
+**National Chung Hsing University** - *Taiwan, Taichung*  
+Master of Science in Computer Science
+- Focus on artificial intelligence and software engineering
+- Developed expertise in building scalable applications and distributed systems
+- Enhanced understanding of algorithms, data structures, and software design patterns
+- Gained hands-on experience with modern development frameworks and cloud technologies
 
-<p align="center">
-  <strong>Languages:</strong> Python, C#<br>
-  <strong>Frameworks:</strong> .NET, Flask<br>
-  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
-  <strong>Cloud Services:</strong> GCP, AWS<br>
-  <strong>Tools:</strong> Docker, Kubernetes
-</p>
+**Feng Chia University** - *Taiwan, Taichung*  
+Financial Engineering and Actuarial Science  
+- Applied statistical modeling and financial analysis
+- Strong foundation in mathematics and quantitative methods
+- Combined financial theory with practical problem-solving skills
 
-<h3 align="center">Check Out My Projects</h3>
+<!-- Skills Section -->
+## 💻 Technical Skills
 
-<p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/matthewhoung?tab=repositories">my GitHub repositories</a>.</p>
+**Frontend Development**
+- Vue.js
+- TypeScript
+- Ionic
 
-<h3 align="center">How to Reach Me</h3>
+**Backend Development**
+- Flask (Python)
+- .NET (C#)
 
-<p align="center">📫 Feel free to contact me at: <strong>matthewhoungs@gmail.com</strong></p>
+**Cloud Platforms**
+- Google Cloud Platform
+- Azure
+
+**Databases**
+- Microsoft SQL Server
+- PostgreSQL
+- MySql
+
+<!-- About Me Section -->
+## 🚀 About Me
+
+I bring a unique perspective to software engineering with my background in Financial Engineering and Actuarial Science. This combination of financial analytics and technical skills allows me to approach problems with both mathematical precision and innovative solutions.
+
+<!-- Contact Section -->
+## 📫 Get in Touch
+
+- Email: [matthewhoungs@gmail.com](mailto:matthewhoungs@gmail.com)
+- GitHub: [github.com/matthewhoung](https://github.com/matthewhoung)
+
+---
+
+💡 *Currently working on exciting projects that combine financial insights with modern tech solutions. Always open to interesting collaborations and opportunities!*
