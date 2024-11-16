@@ -8,14 +8,14 @@
 ## 🎓 Education
 
 **National Chung Hsing University** - *Taiwan, Taichung*  
-Master of Science in Computer Science
+Master's degree in Computer Science
 - Focus on artificial intelligence and software engineering
 - Developed expertise in building scalable applications and distributed systems
 - Enhanced understanding of algorithms, data structures, and software design patterns
 - Gained hands-on experience with modern development frameworks and cloud technologies
 
-**Feng Chia University** - *Taiwan, Taichung*  
-Financial Engineering and Actuarial Science  
+**Feng Chia University** - *Taiwan, Taichung*
+bachelor's degree in Financial Engineering and Actuarial Science  
 - Applied statistical modeling and financial analysis
 - Strong foundation in mathematics and quantitative methods
 - Combined financial theory with practical problem-solving skills
