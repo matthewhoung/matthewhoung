@@ -14,8 +14,8 @@ Master's degree in Computer Science
 - Enhanced understanding of algorithms, data structures, and software design patterns
 - Gained hands-on experience with modern development frameworks and cloud technologies
 
-**Feng Chia University** - *Taiwan, Taichung*
-Bachelor's degree in Financial Engineering and Actuarial Science  
+**Feng Chia University** - *Taiwan, Taichung*  
+Bachelor's degree in Financial Engineering  
 - Applied statistical modeling and financial analysis
 - Strong foundation in mathematics and quantitative methods
 - Combined financial theory with practical problem-solving skills
